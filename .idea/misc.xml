@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/AA/AndroidStudioProjects/MLKIT/app/src/main/res/layout/activity_access_storage.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/AA/AndroidStudioProjects/MLKIT/app/src/main/res/layout/activity_camera_xactivity.xml" value="0.24375" />
         <entry key="..\:/Users/AA/AndroidStudioProjects/MLKIT/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/AA/AndroidStudioProjects/MLKIT/app/src/main/res/layout/activity_start.xml" value="0.24375" />
       </map>
     </option>
   </component>

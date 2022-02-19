@@ -48,4 +48,11 @@ dependencies {
 
     //pose detection mlkit library
     implementation 'com.google.mlkit:pose-detection-accurate:18.0.0-beta1'
+
+    //camera x dependancies
+    def camerax_version = "1.0.0-beta05"
+    implementation "androidx.camera:camera-camera2:${camerax_version}"
+    implementation "androidx.camera:camera-lifecycle:${camerax_version}"
+    implementation"androidx.camera:camera-view:1.0.0-alpha12"
+    implementation "androidx.camera:camera-extensions:1.0.0-alpha12"
 }
