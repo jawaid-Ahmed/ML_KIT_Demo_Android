@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603326014186",
+    "project_id": "mlkit-2f21b",
+    "storage_bucket": "mlkit-2f21b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603326014186:android:4de2d3881736f888246d93",
+        "android_client_info": {
+          "package_name": "com.auzware.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603326014186-1vmitb4q2q3es55uensg72pv7lujj3re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3FQPNJqMP00ZFNLeRaOUnHyfMSs7FEhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603326014186-1vmitb4q2q3es55uensg72pv7lujj3re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
